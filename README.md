@@ -8,7 +8,7 @@ I’m an applied math grad who fell in love with data—especially when it solve
 - **Viz**: Matplotlib, Seaborn, Plotly, ggplot2 (*because pretty charts matter*)
 - **Tools**: Excel (*yes, it still rules*), Jupyter, RStudio
 
-###🚀 **What I’m Into**
+### 🚀 **What I’m Into**
 - **Finance + Data Science:** Quant models, risk analysis, and anything where numbers meet strategy.
 - **Machine Learning:** From regression to neural nets—if it predicts things, I’m game.
 - **Data Storytelling:** Because no one cares about your insights if they’re buried in a spreadsheet.
