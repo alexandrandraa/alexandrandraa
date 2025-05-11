@@ -4,7 +4,7 @@
 I’m an applied math grad who fell in love with data—especially when it solves real-world problems. My happy place? **Finding patterns in chaos, building ML models, and making slick visualizations** that actually make sense to people.
 
 ### 🔧 **Tech Toolkit**
-- **Coding**: `**Python**` (Pandas, Scikit-learn), `**R**` (Tidyverse), `**SQL**`
+- **Coding**: **`Python`** (Pandas, Scikit-learn), **`R`** (Tidyverse), **`SQL`**
 - **Viz**: Matplotlib, Seaborn, Plotly, ggplot2 (*because pretty charts matter*)
 - **Tools**: Excel (*yes, it still rules*), Jupyter, RStudio
 
@@ -18,8 +18,8 @@ I’m an applied math grad who fell in love with data—especially when it solve
 - **Taking photos** 📸 (*someday I’ll link that portfolio… maybe*).
 
 ### 📫 Let’s Chat!
-LinkedIn: (Alexandra Andira)[https://www.linkedin.com/in/alexandraandira/]
-Email: alexandra.andira@gmail.com
+LinkedIn: [Alexandra Andira](https://www.linkedin.com/in/alexandraandira/)<br>
+Email: [alexandra.andira@gmail.com](mailto:alexandra.andira@gmail.com)
 <!--
 **alexandrandraa/alexandrandraa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
